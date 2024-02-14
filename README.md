@@ -1,2 +1,2 @@
 Git directory README
-pull test
+git pull is a test
